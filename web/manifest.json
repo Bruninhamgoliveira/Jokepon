@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "name": "jokenpo",
     "short_name": "jokenpo",
     "start_url": ".",
@@ -11,13 +12,31 @@
     "icons": [
         {
             "src": "icons/Icon-192.png",
+=======
+    "name": "Jogo Jokempô",
+    "short_name": "Jokempô",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+>>>>>>> icones
             "sizes": "192x192",
             "type": "image/png"
         },
         {
+<<<<<<< HEAD
             "src": "icons/Icon-512.png",
             "sizes": "512x512",
             "type": "image/png"
         }
     ]
+=======
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+>>>>>>> icones
 }
